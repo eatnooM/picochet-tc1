@@ -605,7 +605,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/",
+      "plot": "picochet-tc1-gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
