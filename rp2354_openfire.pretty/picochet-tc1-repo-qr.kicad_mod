@@ -49,6 +49,9 @@
 			)
 		)
 	)
+	(attr board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard
+		dnp
+	)
 	(fp_rect
 		(start -3.625 -3.625)
 		(end -3.375 -3.375)
