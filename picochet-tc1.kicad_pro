@@ -521,7 +521,7 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
-        "via_diameter": 0.4,
+        "via_diameter": 0.45,
         "via_drill": 0.2,
         "wire_width": 6
       },
@@ -533,7 +533,7 @@
         "microvia_drill": 0.1,
         "name": "Big Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.5,
         "via_diameter": 0.6,
@@ -547,11 +547,25 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
         "via_diameter": 0.6,
-        "via_drill": 0.3
+        "via_drill": 0.25
+      },
+      {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.4,
+        "diff_pair_width": 0.4,
+        "microvia_diameter": 0.4,
+        "microvia_drill": 0.1,
+        "name": "Smol Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.15,
+        "via_diameter": 0.6,
+        "via_drill": 0.25
       },
       {
         "clearance": 0.2,
@@ -561,10 +575,10 @@
         "microvia_drill": 0.1,
         "name": "USB Data",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.4,
+        "via_diameter": 0.45,
         "via_drill": 0.2
       }
     ],
@@ -591,10 +605,6 @@
         "pattern": "/RMB_GND"
       },
       {
-        "netclass": "Power",
-        "pattern": "RMB_PWR"
-      },
-      {
         "netclass": "Big Power",
         "pattern": "SOL_*"
       },
@@ -605,6 +615,14 @@
       {
         "netclass": "USB Data",
         "pattern": "/USB_*"
+      },
+      {
+        "netclass": "Smol Power",
+        "pattern": "+3V3"
+      },
+      {
+        "netclass": "Smol Power",
+        "pattern": "+1V1"
       }
     ]
   },
