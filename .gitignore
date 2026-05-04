@@ -32,3 +32,7 @@ fp-info-cache
 # Project-specific
 *gerbers/*
 *gerbers.zip
+*production/
+*production.zip
+bom/*
+fabrication-toolkit-options.json

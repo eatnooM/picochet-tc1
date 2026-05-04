@@ -60,10 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|134645000|98262500|11290852-441d-41db-bbea-faa1968b6dc6|908ded8d-aa09-4c81-9109-93a0f8b154cc",
-          ""
-        ],
-        [
           "clearance|169931250|95937500|2b543f9b-6e07-4b58-a056-494faee12f52|f5cc18f9-0e31-4560-a6b1-d331e91bb5ba",
           ""
         ],
@@ -172,7 +168,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.4,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -570,7 +566,7 @@
       {
         "clearance": 0.2,
         "diff_pair_gap": 0.15,
-        "diff_pair_width": 0.8,
+        "diff_pair_width": 0.3,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "USB Data",
@@ -679,7 +675,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -733,6 +729,12 @@
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
           "show": true
         }
       ],
