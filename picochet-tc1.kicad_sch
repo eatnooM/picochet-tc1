@@ -9324,7 +9324,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25190"
+		(property "LCSC Part #" "C138021"
 			(at 267.97 104.14 90)
 			(effects
 				(font
@@ -9793,7 +9793,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C207022"
+		(property "LCSC Part #" "C509954"
 			(at 116.84 97.79 0)
 			(effects
 				(font
@@ -13459,7 +13459,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C25190"
+		(property "LCSC Part #" "C138021"
 			(at 267.97 93.98 90)
 			(effects
 				(font
@@ -13837,7 +13837,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C307331"
+		(property "LCSC Part #" "C1711"
 			(at 110.49 104.14 90)
 			(effects
 				(font
@@ -13986,7 +13986,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "ABM8-272-T3"
+		(property "LCSC Part #" "C20625731"
 			(at 260.35 133.35 90)
 			(effects
 				(font
@@ -15664,7 +15664,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C207022"
+		(property "LCSC Part #" "C509954"
 			(at 50.8 97.79 0)
 			(effects
 				(font
@@ -17519,7 +17519,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C307331"
+		(property "LCSC Part #" "C1711"
 			(at 44.45 104.14 90)
 			(effects
 				(font

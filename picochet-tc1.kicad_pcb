@@ -1245,7 +1245,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25190"
+		(property "LCSC Part #" "C138021"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1459,7 +1459,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C307331"
+		(property "LCSC Part #" "C1711"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4355,7 +4355,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "ABM8-272-T3"
+		(property "LCSC Part #" "C20625731"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5033,7 +5033,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25190"
+		(property "LCSC Part #" "C138021"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8100,7 +8100,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C207022"
+		(property "LCSC Part #" "C509954"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17562,7 +17562,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C307331"
+		(property "LCSC Part #" "C1711"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18246,7 +18246,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C207022"
+		(property "LCSC Part #" "C509954"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
